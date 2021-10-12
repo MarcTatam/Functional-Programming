@@ -1,0 +1,4 @@
+This coursework was produced using the documentation from the following web pages:
+https://hackage.haskell.org/package/containers-0.6.4.1/docs/Data-Sequence.html 04/11/2020
+https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html 04/11/2020
+https://hackage.haskell.org/package/base-4.14.0.0/docs/Data-Foldable.html 04/11/2020
